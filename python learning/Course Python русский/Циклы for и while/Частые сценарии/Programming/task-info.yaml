@@ -1,0 +1,11 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: '# put your python code here'
+  learner_created: false
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 12 Jan 2023 13:25:10 UTC"
+record: -1

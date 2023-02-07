@@ -1,0 +1,16 @@
+type: code
+custom_name: Programming
+files:
+- name: task.py
+  visible: true
+  text: |-
+    n = int(input())
+    while n > 0:
+        n %= 10
+    print(n)
+  learner_created: false
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 03 Feb 2023 11:06:25 UTC"
+record: -1

@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: "строковое значение будет стерто, и программа продолжит работу"
+- text: произойдет ошибка ValueError
+- text: произойдет ошибка IndexError
+- text: ничего не произойдет – недопустимый индекс будет проигнорирован
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+status: Unchecked
+record: -1
+custom_name: Quiz
+local_check: false

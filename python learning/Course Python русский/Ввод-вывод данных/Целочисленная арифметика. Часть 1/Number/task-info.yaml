@@ -1,0 +1,21 @@
+type: number
+files:
+- name: answer.txt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 3
+    placeholder_text: type your solution here
+    initial_state:
+      length: 23
+      offset: 0
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+  text: type your solution here
+  learner_created: false
+status: Solved
+feedback:
+  message: "<html>Не забывай: новое значение переменной вытесняет старое.</html>"
+  time: "Thu, 22 Dec 2022 14:31:14 UTC"
+record: -1

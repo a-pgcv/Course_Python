@@ -77,7 +77,7 @@ TXT
 --- $ vim preferances.txt
  11. Создать файл sklls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT
 --- $ vim skills.txt
- 12. Сделать коммит в одну строку. --- $ git commit -m "add skills and prefs"
+ 12. Сделать коммит в одну строку. --- $git add . && git commit -m "add skills and prefs"
  13. Отправить сразу 2 файла на внешний репозиторий. --- $ git push
  14. На веб интерфейсе создать файл bug_report.txt.
  15. Сделать Commit changes (сохранить) изменения на веб интерфейсе.

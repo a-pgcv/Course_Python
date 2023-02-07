@@ -1,0 +1,19 @@
+type: code
+custom_name: Programming
+files:
+- name: task.py
+  visible: true
+  text: |-
+    n = input()
+    product = n % 10
+    while n >= 10:
+        digit = n % 10
+        product = product * digit
+        n //= 10
+    print(product)
+  learner_created: false
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 03 Feb 2023 11:13:08 UTC"
+record: -1

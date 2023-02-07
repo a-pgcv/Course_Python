@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: создание высокопроизводительных серверов
+- text: создание приложений анализа данных
+- text: создание системных утилит
+- text: создание графических приложений GUI
+- text: написание низкоуровневых драйверов
+- text: создание операционных систем
+- text: создание веб-приложений
+- text: создание приложений баз данных
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+status: Solved
+record: -1
+custom_name: Quiz
+local_check: false

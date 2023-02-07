@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: <code>s = 'bc2'</code>
+- text: <code>s = 'bca'</code>
+- text: <code>s = 'abcabc'</code>
+- text: <code>s = '123abc'</code>
+- text: <code>s = '23'</code>
+- text: <code>s = '1'</code>
+- text: <code>s = '321'</code>
+- text: <code>s = 'a'</code>
+- text: <code>s = '3ab'</code>
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 11 Jan 2023 13:49:27 UTC"
+record: -1
+selected_options:
+- 3
+- 4
+- 5
+- 7
+- 8
+local_check: false

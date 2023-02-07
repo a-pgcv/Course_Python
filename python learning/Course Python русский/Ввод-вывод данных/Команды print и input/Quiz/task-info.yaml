@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: считывания данных с клавиатуры
+- text: вывода данных на экран
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 19 Dec 2022 14:34:17 UTC"
+record: -1
+selected_options:
+- 1
+local_check: false
