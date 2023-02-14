@@ -16,7 +16,12 @@ files:
     #  You can experiment here, it won’t be checked
 
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 14 Feb 2023 15:46:07 UTC"
 record: -1
+selected_options:
+- 7
 custom_name: Quiz
 local_check: false

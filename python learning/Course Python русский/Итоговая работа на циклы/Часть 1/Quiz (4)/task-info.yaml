@@ -1,14 +1,14 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: 15 раз Python awesome! на каждой строке
-- text: 10 раз Python awesome! на каждой строке
-- text: 16 раз Python awesome! на каждой строке
 - text: 25 раз Python awesome! на каждой строке
 - text: 16 раз Python awesome! на одной строке через пробел
+- text: 15 раз Python awesome! на одной строке через пробел
+- text: 16 раз Python awesome! на каждой строке
 - text: 10 раз Python awesome! на одной строке через пробел
 - text: 25 раз Python awesome! на одной строке через пробел
-- text: 15 раз Python awesome! на одной строке через пробел
+- text: 10 раз Python awesome! на каждой строке
+- text: 15 раз Python awesome! на каждой строке
 files:
 - name: task.py
   visible: true
@@ -16,7 +16,13 @@ files:
     #  You can experiment here, it won’t be checked
 
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: "<html>Все верно, ведь последний раз в цикл зайдем при i = 24. Тогда ко\
+    л-во итераций цикла равно 24-10+1</html>"
+  time: "Mon, 13 Feb 2023 13:26:30 UTC"
 record: -1
+selected_options:
+- 7
 custom_name: Quiz
 local_check: false

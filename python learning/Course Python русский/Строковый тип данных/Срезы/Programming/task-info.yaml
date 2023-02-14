@@ -6,5 +6,11 @@ files:
     s = "In 2010, someone paid 10k Bitcoin for two pizzas."
     print()
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: |-
+    <html>Отлично! И не забываем, что мы можем опускать первый индекс: print(s[:12])
+
+    </html>
+  time: "Tue, 14 Feb 2023 15:05:26 UTC"
 record: -1

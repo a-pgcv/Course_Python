@@ -11,9 +11,13 @@ files:
       length: 23
       offset: 0
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: type your solution here
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: "<html>Верно! Метод lower() возращает копию строки, в которой все симво\
+    лы имеют нижний регистр.</html>"
+  time: "Tue, 14 Feb 2023 15:53:27 UTC"
 record: -1

@@ -5,15 +5,18 @@ files:
   visible: true
   placeholders:
   - offset: 0
-    length: 23
+    length: 12
     placeholder_text: type your solution here
     initial_state:
       length: 23
       offset: 0
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
   text: type your solution here
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Верно! Метод lower() обрабатывает только буквенные символы.</html>
+  time: "Tue, 14 Feb 2023 15:53:41 UTC"
 record: -1

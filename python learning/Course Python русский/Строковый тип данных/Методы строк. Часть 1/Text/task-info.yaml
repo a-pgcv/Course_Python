@@ -10,9 +10,13 @@ files:
       length: 23
       offset: 0
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: type your solution here
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: "<html>Верно! Метод capitalize() возвращает копию строки, в которой пер\
+    вая буква имеет верхний\_регистр, а все остальные буквы имеют нижний регистр.</html>"
+  time: "Tue, 14 Feb 2023 15:52:34 UTC"
 record: -1

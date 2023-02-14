@@ -8,5 +8,8 @@ files:
 
     print(s[])
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 14 Feb 2023 11:31:26 UTC"
 record: -1

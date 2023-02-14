@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: выводит количество цифр в числе
-- text: выводит сколько раз делится введенное число на 2
 - text: "выводит минимальный делитель числа, отличный от единицы"
+- text: выводит количество цифр в числе
 - text: выводит максимальный делитель числа
+- text: выводит сколько раз делится введенное число на 2
 files:
 - name: task.py
   visible: true
@@ -12,7 +12,12 @@ files:
     #  You can experiment here, it won’t be checked
 
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 14 Feb 2023 15:47:11 UTC"
 record: -1
+selected_options:
+- 0
 custom_name: Quiz
 local_check: false

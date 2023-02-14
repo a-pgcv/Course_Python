@@ -20,5 +20,8 @@ files:
     else:
         print('NO')
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 13 Feb 2023 12:26:19 UTC"
 record: -1

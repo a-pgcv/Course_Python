@@ -11,9 +11,13 @@ files:
       length: 23
       offset: 0
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: type your solution here
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: "<html>Верно! Метод upper() возвращает копию строки, в которой все симв\
+    олы имеют верхний регистр.</html>"
+  time: "Tue, 14 Feb 2023 15:54:22 UTC"
 record: -1
